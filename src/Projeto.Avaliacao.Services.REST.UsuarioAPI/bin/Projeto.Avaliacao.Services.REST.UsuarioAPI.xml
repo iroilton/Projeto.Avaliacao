@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Projeto.Avaliacao.Services.REST.UsuarioAPI</name>
+    </assembly>
+    <members>
+        <member name="M:Projeto.Avaliacao.Services.REST.UsuarioAPI.App_Start.SimpleInjectorWebApiInitializer.Initialize">
+            <summary>Initialize the container and register it as Web API Dependency Resolver.</summary>
+        </member>
+    </members>
+</doc>

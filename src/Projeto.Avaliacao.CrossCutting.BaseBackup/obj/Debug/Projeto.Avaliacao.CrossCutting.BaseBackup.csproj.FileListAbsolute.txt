@@ -1,0 +1,6 @@
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\bin\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\bin\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\obj\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.csprojAssemblyReference.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\obj\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\obj\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.CrossCutting.BaseBackup\obj\Debug\Projeto.Avaliacao.CrossCutting.BaseBackup.pdb

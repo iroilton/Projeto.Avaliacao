@@ -1,0 +1,9 @@
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\bin\Debug\Projeto.Avaliacao.Database.dacpac
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\Model.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\refactor.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\postdeploy.sql
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\predeploy.sql
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\Projeto.Avaliacao.Database.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\obj\Debug\Projeto.Avaliacao.Database.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\bin\Debug\Projeto.Avaliacao.Database.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\bin\Debug\Projeto.Avaliacao.Database.pdb

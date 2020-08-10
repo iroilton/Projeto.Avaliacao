@@ -1,0 +1,17 @@
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\obj\Debug\Projeto.Avaliacao.Application.csprojAssemblyReference.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\obj\Debug\Projeto.Avaliacao.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Application.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Application.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\AutoMapper.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Domain.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Infra.Data.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\EntityFramework.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Domain.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Infra.Data.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\Projeto.Avaliacao.Infra.Data.dll.config
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\AutoMapper.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\EntityFramework.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\obj\Debug\Projeto.Avaliacao.Application.csproj.CopyComplete
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\obj\Debug\Projeto.Avaliacao.Application.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\obj\Debug\Projeto.Avaliacao.Application.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Application\bin\Debug\DomainValidation.dll

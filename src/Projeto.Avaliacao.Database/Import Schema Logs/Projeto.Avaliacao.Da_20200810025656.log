@@ -1,0 +1,84 @@
+09/08/2020 23:56:56	This log contains information about the import schema operation into project 'Projeto.Avaliacao.Database' on computer 'DESKTOP-730UGQD' by user 'iroil'.
+09/08/2020 23:56:56	Import of database schema has started.
+09/08/2020 23:57:04	Gathering database credentials
+09/08/2020 23:57:04	Gathering database options
+09/08/2020 23:57:04	Gathering users
+09/08/2020 23:57:04	Gathering roles
+09/08/2020 23:57:04	Gathering application roles
+09/08/2020 23:57:04	Gathering role memberships
+09/08/2020 23:57:04	Gathering filegroups
+09/08/2020 23:57:04	Gathering full-text catalogs
+09/08/2020 23:57:04	Gathering assemblies
+09/08/2020 23:57:04	Gathering certificates
+09/08/2020 23:57:04	Gathering asymmetric keys
+09/08/2020 23:57:04	Gathering symmetric keys
+09/08/2020 23:57:04	Gathering encrypted symmetric keys
+09/08/2020 23:57:04	Gathering schemas
+09/08/2020 23:57:04	Gathering XML schema collections
+09/08/2020 23:57:04	Gathering user-defined data types
+09/08/2020 23:57:04	Gathering user-defined types
+09/08/2020 23:57:04	Gathering table types
+09/08/2020 23:57:04	Gathering unique keys for table types
+09/08/2020 23:57:04	Gathering primary keys for table types
+09/08/2020 23:57:04	Gathering indexes for table types
+09/08/2020 23:57:04	Gathering check constraints for table types
+09/08/2020 23:57:04	Gathering default constraints for table types
+09/08/2020 23:57:04	Gathering partition functions
+09/08/2020 23:57:04	Gathering partition schemes
+09/08/2020 23:57:04	Gathering functions
+09/08/2020 23:57:04	Gathering encrypted functions
+09/08/2020 23:57:04	Gathering aggregates
+09/08/2020 23:57:04	Gathering procedures
+09/08/2020 23:57:04	Gathering encrypted procedures
+09/08/2020 23:57:04	Gathering tables
+09/08/2020 23:57:04	Gathering primary keys
+09/08/2020 23:57:04	Gathering unique constraints
+09/08/2020 23:57:04	Gathering foreign keys
+09/08/2020 23:57:04	Gathering default constraints
+09/08/2020 23:57:04	Gathering check constraints
+09/08/2020 23:57:04	Gathering views
+09/08/2020 23:57:04	Gathering encrypted views
+09/08/2020 23:57:04	Gathering indexes
+09/08/2020 23:57:04	Gathering statistics
+09/08/2020 23:57:04	Gathering full-text index stoplists
+09/08/2020 23:57:04	Gathering search property lists
+09/08/2020 23:57:04	Gathering search properties
+09/08/2020 23:57:04	Gathering full-text indexes
+09/08/2020 23:57:04	Gathering column store indexes
+09/08/2020 23:57:04	Gathering spatial indexes
+09/08/2020 23:57:04	Gathering XML indexes
+09/08/2020 23:57:04	Gathering Selective XML indexes
+09/08/2020 23:57:04	Gathering encrypted triggers
+09/08/2020 23:57:04	Gathering triggers
+09/08/2020 23:57:05	Gathering encrypted and clr ddl triggers
+09/08/2020 23:57:05	Gathering ddl triggers
+09/08/2020 23:57:05	Gathering synonyms
+09/08/2020 23:57:05	Gathering defaults
+09/08/2020 23:57:05	Gathering data constraint uddt bindings
+09/08/2020 23:57:05	Gathering rules
+09/08/2020 23:57:05	Gathering data constraint uddt bindings
+09/08/2020 23:57:05	Gathering message types
+09/08/2020 23:57:05	Gathering queues
+09/08/2020 23:57:05	Gathering contracts
+09/08/2020 23:57:05	Gathering services
+09/08/2020 23:57:05	Gathering event notifications
+09/08/2020 23:57:05	Gathering remote service bindings
+09/08/2020 23:57:05	Gathering broker priorities
+09/08/2020 23:57:05	Gathering signatures
+09/08/2020 23:57:05	Gathering data compression options
+09/08/2020 23:57:05	Gathering sequence types
+09/08/2020 23:57:05	Gathering security policies
+09/08/2020 23:57:05	Gather column encryption keys
+09/08/2020 23:57:05	Gathering column master keys
+09/08/2020 23:57:05	Gathering external data sources
+09/08/2020 23:57:05	Gathering external file formats
+09/08/2020 23:57:05	Gathering external tables
+09/08/2020 23:57:05	Gathering extended properties
+09/08/2020 23:57:05	Gathering credentials
+09/08/2020 23:57:05	Gathering logins
+09/08/2020 23:57:05	Gathering server audits
+09/08/2020 23:57:06	Scanning project for duplicate elements
+09/08/2020 23:57:06	Finished duplicate element processing
+09/08/2020 23:57:07	Finished importing database.
+09/08/2020 23:57:07	A summary of the import was saved to the following location: D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Database\Import Schema Logs\Projeto.Avaliacao.Da_20200810025656.log
+09/08/2020 23:57:07	Click Finish to continue...

@@ -1,0 +1,22 @@
+﻿@model Projeto.Avaliacao.Application.ViewModels.UsuarioViewModel
+
+@{
+    ViewBag.Title = "ExcluirTodosUsuarios";
+}
+
+<h2>ExcluirTodosUsuarios</h2>
+
+<h3>Deseja realmente excluir todos os usuários?</h3>
+
+<div>
+    <hr />
+
+    @using (Html.BeginForm("ExcluirTodosUsuarios", "Usuario", FormMethod.Post)) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

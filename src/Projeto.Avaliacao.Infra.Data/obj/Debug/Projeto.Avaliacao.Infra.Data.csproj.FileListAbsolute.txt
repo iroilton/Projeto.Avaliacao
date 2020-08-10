@@ -1,0 +1,15 @@
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\Projeto.Avaliacao.Infra.Data.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\Projeto.Avaliacao.Infra.Data.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\obj\Debug\Projeto.Avaliacao.Infra.Data.csprojAssemblyReference.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\obj\Debug\Projeto.Avaliacao.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\obj\Debug\Projeto.Avaliacao.Infra.Data.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\obj\Debug\Projeto.Avaliacao.Infra.Data.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\Projeto.Avaliacao.Infra.Data.dll.config
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\EntityFramework.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\Projeto.Avaliacao.Domain.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\Projeto.Avaliacao.Domain.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\EntityFramework.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\obj\Debug\Projeto.Avaliacao.Infra.Data.csproj.CopyComplete
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Infra.Data\bin\Debug\DomainValidation.dll

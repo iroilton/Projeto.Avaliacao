@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[TBLOGINS] (
+    [LoginID]   INT          NOT NULL,
+    [Login]     VARCHAR (50) NOT NULL,
+    [Senha]     VARCHAR (15) NOT NULL,
+    [Ativo]     BIT          CONSTRAINT [DF_TBLOGINS_Ativo] DEFAULT ((1)) NOT NULL,
+    [Bloqueado] BIT          CONSTRAINT [DF_TBLOGINS_Bloqueado] DEFAULT ((0)) NOT NULL,
+    CONSTRAINT [PK_TBLOGINS] PRIMARY KEY CLUSTERED ([LoginID] ASC),
+    CONSTRAINT [FK_TBLOGINS_TBUSUARIOS] FOREIGN KEY ([LoginID]) REFERENCES [dbo].[TBUSUARIOS] ([UsuarioID])
+);
+

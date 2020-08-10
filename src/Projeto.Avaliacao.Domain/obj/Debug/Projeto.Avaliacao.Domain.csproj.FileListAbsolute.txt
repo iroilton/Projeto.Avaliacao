@@ -1,0 +1,8 @@
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\bin\Debug\Projeto.Avaliacao.Domain.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\bin\Debug\Projeto.Avaliacao.Domain.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\obj\Debug\Projeto.Avaliacao.Domain.csprojAssemblyReference.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\obj\Debug\Projeto.Avaliacao.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\obj\Debug\Projeto.Avaliacao.Domain.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\obj\Debug\Projeto.Avaliacao.Domain.pdb
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\bin\Debug\DomainValidation.dll
+D:\Projetos\Projeto.Avaliacao\src\Projeto.Avaliacao.Domain\obj\Debug\Projeto.Avaliacao.Domain.csproj.CopyComplete
